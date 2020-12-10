@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Монитор заказов </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  </head>
+
+  <body >
+
+    <table class="maintable"> 
+
+            <tr>
+              <th class="cooking_header"> Готується</th>
+              <th class="ready_header">Готово</th> 
+            </tr>  
+
+
+       <tr valign="top">
+        <td width="50%">
+            
+            <div class="cook_rec" data-bind="foreach: Cooking">
+              <li class="border"> <span data-bind="text: number"></span> </li>
+            </div>
+        </td>
+        <td>
+           <div class="ready_rec" data-bind="foreach: Ready">
+              <li class="border"> <span data-bind="text: number"></span> </li>
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+    
+
+
+  </body>
+</html>
