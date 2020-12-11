@@ -9,17 +9,15 @@ Install git on my PC
 
 change my global configs
 
-'''
+''
 $ git config --global user.name "Anatoliy"
 $ git config --global user.email g.a.s0508657252@gmail.com
-'''
-
-enter password
+''
 
 
 first time create repo public
 then corrected in private 
 
-### DevOps_online_Dnipro_2020Q42021Q1
+### DevOps_online_Kiev_2020Q42021Q1
 
-![Image of repo](HomeWork/resourses/screans/repo.png)
+![Image of repo](HomeWork/resourses/screans/repo.png =250X150)
