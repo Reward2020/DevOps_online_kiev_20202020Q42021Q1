@@ -1,9 +1,10 @@
 # task_2.1
 
 <h4 align="center">PART 1. HYPERVISORS</h4>
+
 1 - Most popular hypervisors for infrastructure virtualization is
     VMware vSphere Hypervisor, Microsoft Hyper-V, Citrix XenServer, Oracle VirtualBox.
-2 - Main differences of the most popular hypervisors
+<br>2 - Main differences of the most popular hypervisors
 	 Type 1 hypervisor: hypervisors run directly on the system hardware – A “bare metal” embedded hypervisor
 	 like VMware ESX and ESXi, Microsoft Hyper-V, Citrix XenServer
      Type 2 hypervisor: hypervisors run on a host operating system that provides virtualization services, 
