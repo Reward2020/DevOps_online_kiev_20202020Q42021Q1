@@ -77,7 +77,8 @@ _+num_ This option displays the text after the specified number of lines of the 
 
 <br>List the contents of the home directory using the ls command, define its files and directories.
 
-![ls -R](screans/ls -R.png "figure")
+![ls-R](screans/ls-R.png "figure")
+
 <br>
 
 
@@ -121,9 +122,12 @@ The various options for the ls command.
 ![ls_keys_a_l](screans/ls_keys_a_l.png "figure")
 
 -R - list with sub-directories
-![ls -R](screans/ls -R.png "figure")
+<br>
+![ls-R](screans/ls-R.png "figure")
+<br>
 
 -S - sort by size (large to small)
+<br>
 ![ls_keys](screans/ls_keys.png "figure")
 
 Created a subdirectory in the home directory and file containing information about directories
