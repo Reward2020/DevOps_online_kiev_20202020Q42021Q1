@@ -77,7 +77,7 @@ _+num_ This option displays the text after the specified number of lines of the 
 
 <br>List the contents of the home directory using the ls command, define its files and directories.
 
-<br>![ls -R](screans/ls -R.png "figure")
+![ls -R](screans/ls -R.png "figure")
 <br>
 
 
