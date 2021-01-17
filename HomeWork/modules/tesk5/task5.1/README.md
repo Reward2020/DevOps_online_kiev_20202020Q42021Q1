@@ -75,6 +75,12 @@ _+num_ This option displays the text after the specified number of lines of the 
 <br>Unlike the _more_ command, it allows scrolling in both directions. 
 <br>This means that you can scroll up and down the file.
 
+<br>List the contents of the home directory using the ls command, define its files and directories.
+
+<br>![ls -R](screans/ls -R.png "figure")
+<br>
+
+
 
 <h3 align="center">PART_2</h3>
 
